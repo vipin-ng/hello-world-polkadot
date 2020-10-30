@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-polkadot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vipin-ng/hello-world-polkadot.git",
+  "author": "Vipin <nnnkit@rediffmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
